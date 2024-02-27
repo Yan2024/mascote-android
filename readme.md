@@ -6,4 +6,4 @@ Este projeto é um site fictício que aborda, de forma sucinta, a história do m
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 
 ## Como Visualizar
-Basta clicar em [História do Mascote do Android (yan2024.github.io)](https://yan2024.github.io/Projeto_Site_Mascote_Android/) que o site abrirá num navegador da web.
+Basta clicar em [História do Mascote do Android (yan2024.github.io)](https://yan2024.github.io/mascote-android/) que o site abrirá num navegador da web.
